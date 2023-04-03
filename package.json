@@ -11,6 +11,9 @@
     "crud",
     "mongodb"
   ],
+  "engines": {
+    "node": ">=14 <15"
+  },
   "author": "akshay kashyap",
   "license": "ISC",
   "dependencies": {
